@@ -1,6 +1,6 @@
 Hi! I'm Zaid Tawalbeh 👋
 
-[Short bio about yourself and your interests. Briefly describe what you do or what you're passionate about.]
+I am a Robotics and Artificial Intelligence engineer and I want to become the best in my career.
 
 This GitHub profile serves as my digital playground where I want to explore coding projects, share data sets, showcase web development skills, creating video games
 and the most important of all the above I'm in love with cybersecurity and I love to go deeper and deeper in it.
